@@ -1,1 +1,1 @@
-# Notes template for Sidelines.dev
+# Notes from Sidelines.dev
